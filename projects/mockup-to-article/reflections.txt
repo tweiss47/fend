@@ -1,0 +1,27 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+It's been a good start so far. As far as new skills go.
+  * I've gotten comfortable with a new editing environment, Atom. I set it up
+    display markdown and added a couple of packages to help with html editing
+    that have been really useful.
+  * I've managed to get a basic familiarity with a collection of html tags and
+    get some practice using them.
+  * I've gotten comfortable navigating the course and handing in assignments.
+
+What has been easy? Most things. The course content and navigation works really
+well and the material so far has been pretty strait forward. None of it is
+completely new to me at this point.
+
+What has been difficult? Nothing yet. The pace of the course has been fine and
+I'm still in the honeymoon stage, having just signed up, so I feel like I'm
+making good progress and am finding the time to work on the course.
+
+As far as problem solving strategies, there hasn't been much of a need at this
+point. I've done some outside reading and used MDN as a reference when I
+haven't know how to address a problem immediately.
