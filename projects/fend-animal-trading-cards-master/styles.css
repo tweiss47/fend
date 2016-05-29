@@ -1,1 +1,47 @@
-/* add your CSS here */
+/* Styles for Animal Trading Cards project */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  padding: 20px;
+}
+
+.card {
+  width: 320px;
+  border: 2px solid lightgrey;
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+  box-shadow: 0px 5px 20px 0px rgba(153,153,153,0.5);
+  border-radius: 4px;
+}
+
+.title {
+  margin: 10px;
+  font-size: 24px;
+  padding-left: 5px;
+}
+
+.picture {
+  display: block;
+  width: 300px;
+  margin: 10px;
+}
+
+.data {
+  border: 2px solid lightgrey;
+  margin: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.datalist {
+  list-style: none;
+  padding-left: 0;
+}
+
+.interesting {
+  font-style: italic;
+}
+
+.fact {
+  font-weight: bold;
+  font-style: normal;
+}
