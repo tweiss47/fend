@@ -1,7 +1,7 @@
 /* Styles for Animal Trading Cards project */
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   padding: 20px;
 }
 
@@ -13,26 +13,25 @@ body {
   border-radius: 4px;
 }
 
-.title {
+.card-title {
   margin: 10px;
   font-size: 24px;
   padding-left: 5px;
 }
 
-.picture {
+.card-picture {
   display: block;
   width: 300px;
   margin: 10px;
 }
 
-.data {
+.card-data {
   border: 2px solid lightgrey;
   margin: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 0 10px 0 10px;
 }
 
-.datalist {
+.card-datalist {
   list-style: none;
   padding-left: 0;
 }
@@ -41,7 +40,7 @@ body {
   font-style: italic;
 }
 
-.fact {
+.card-fact {
   font-weight: bold;
   font-style: normal;
 }
